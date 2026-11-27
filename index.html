@@ -687,6 +687,15 @@ footer {
   text-transform: uppercase; color: #666;
 }
 
+.foot-work {
+  padding: 18px 64px; background: var(--ink); border-bottom: 1px solid #222;
+  font-family: 'JetBrains Mono', monospace; font-size: 10px;
+  letter-spacing: .1em; text-transform: uppercase; color: #666; line-height: 2;
+}
+.foot-work a { color: #999; text-decoration: none; }
+.foot-work a:hover { color: var(--white); }
+@media (max-width: 768px) { .foot-work { padding: 18px 24px; text-align: center; } }
+
 /* ─── REVEAL ──────────────────────────────────────── */
 .reveal {
   opacity: 0; transform: translateY(20px);
@@ -908,7 +917,7 @@ footer {
   <div class="project-table">
 
     <!-- APS: Live -->
-    <a class="project-row clickable" href="work/advanced-power-solutions/">
+    <a class="project-row clickable" href="https://aps.com.pk/" target="_blank" rel="noopener">
       <span class="pr-num">01</span>
       <div class="pr-name-block">
         <div class="pr-name">Advanced Power Solutions</div>
@@ -925,7 +934,7 @@ footer {
     </a>
 
     <!-- Gull Swiss Limousine: Live -->
-    <a class="project-row clickable" href="work/gull-swiss-limousine/">
+    <a class="project-row clickable" href="https://www.gullswisslimousine.com/" target="_blank" rel="noopener">
       <span class="pr-num">02</span>
       <div class="pr-name-block">
         <div class="pr-name">Gull Swiss Limousine &amp; Tours</div>
@@ -942,7 +951,7 @@ footer {
     </a>
 
     <!-- Sellwavy: Live -->
-    <a class="project-row clickable" href="work/sellwavy/">
+    <a class="project-row clickable" href="https://sellwavy.com/" target="_blank" rel="noopener">
       <span class="pr-num">03</span>
       <div class="pr-name-block">
         <div class="pr-name">Sellwavy</div>
@@ -959,7 +968,7 @@ footer {
     </a>
 
     <!-- Chef Aboud: Live -->
-    <a class="project-row clickable" href="work/chef-aboud/">
+    <a class="project-row clickable" href="https://chefaboud1.vercel.app/en" target="_blank" rel="noopener">
       <span class="pr-num">04</span>
       <div class="pr-name-block">
         <div class="pr-name">Chef Aboud Küche</div>
@@ -976,7 +985,7 @@ footer {
     </a>
 
     <!-- Naro: Live -->
-    <a class="project-row clickable" href="work/naro/">
+    <a class="project-row clickable" href="https://naro-web.vercel.app" target="_blank" rel="noopener">
       <span class="pr-num">05</span>
       <div class="pr-name-block">
         <div class="pr-name">Naro</div>
@@ -1118,6 +1127,9 @@ footer {
     </div>
   </div>
 </section>
+
+<!-- CASE STUDIES: keeps the /work/ pages linked from the homepage for Google -->
+<div class="foot-work">Case studies: <a href="work/advanced-power-solutions/">APS</a> · <a href="work/gull-swiss-limousine/">Gull Swiss Limousine</a> · <a href="work/sellwavy/">Sellwavy</a> · <a href="work/chef-aboud/">Chef Aboud</a> · <a href="work/naro/">Naro</a></div>
 
 <!-- FOOTER -->
 <footer>
