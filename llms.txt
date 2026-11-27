@@ -1,0 +1,33 @@
+# Rayyan Abrar
+
+> Rayyan Abrar builds websites, online stores, booking platforms and AI apps for businesses. Based in Lahore, Pakistan, working remotely with clients worldwide. Available for freelance projects and full-time roles.
+
+## Work
+
+- [Advanced Power Solutions](https://aps.com.pk/): E-commerce website for an industrial engineering firm in Pakistan (switchgear, generators, UPS systems, compressors), with an admin panel, user accounts, a cart and quote requests. Next.js, Tailwind. 2025.
+- [Gull Swiss Limousine & Tours](https://www.gullswisslimousine.com/): Booking website for a limousine and chauffeur company in Switzerland, in English, German, French and Italian. Customers book transfers and tours and pay online with Stripe; the owner manages bookings, customers and blog posts from an admin panel. Next.js, Supabase, Stripe. 2026.
+- [Sellwavy](https://sellwavy.com/): Multi-tenant e-commerce platform where each merchant runs a themed storefront on its own subdomain or custom domain, with Stripe Connect payouts and Stripe Billing subscriptions. Next.js, Prisma, PostgreSQL. 2025.
+- [Chef Aboud Küche](https://chefaboud1.vercel.app/en): Catering restaurant website for a Berlin-based chef, in English, German and right-to-left Arabic. Next.js. 2025.
+- [Naro](https://naro-web.vercel.app): AI video studio that turns a written script into a finished narrated video, shipped as a Windows app. Python, Google Gemini. 2026.
+
+## Case studies
+
+- [Advanced Power Solutions (APS) case study](https://rayyan-abrar.netlify.app/work/advanced-power-solutions/)
+- [Gull Swiss Limousine & Tours case study](https://rayyan-abrar.netlify.app/work/gull-swiss-limousine/)
+- [Sellwavy case study](https://rayyan-abrar.netlify.app/work/sellwavy/)
+- [Chef Aboud Küche case study](https://rayyan-abrar.netlify.app/work/chef-aboud/)
+- [Naro case study](https://rayyan-abrar.netlify.app/work/naro/)
+
+## Client reviews
+
+- "I hired Rayyan Abrar to help our company 'APS' rebuild website effort. They were reliable, flexible and very responsive. Highly recommended." - Abrar H., Owner, Advanced Power Solutions (verified on Upwork)
+- "Good work, MashaAllah. You did a wonderful job. Thank you so much for all your time and effort." - Shehroz Gull, Owner, Gull Swiss Limousine & Tours
+- "Did a great job, hire this freelancer." - Abdelhakim S., Upwork client (5.0 rating)
+
+## Contact
+
+- Website: https://rayyan-abrar.netlify.app/
+- Email: rayyanabrar76@gmail.com
+- WhatsApp: +92 323 426 7068
+- Upwork: https://www.upwork.com/freelancers/~011f3b1f51de873ab8
+- GitHub: https://github.com/rayyanabrar76
