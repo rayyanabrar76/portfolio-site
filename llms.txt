@@ -2,6 +2,16 @@
 
 > Rayyan Abrar builds websites, online stores, booking platforms and AI apps for businesses. Based in Lahore, Pakistan, working remotely with clients worldwide. Available for freelance projects and full-time roles.
 
+## Quick facts
+
+- Name: Rayyan Abrar
+- Role: Full stack web developer (freelance, remote)
+- Based in: Lahore, Pakistan. Works with clients worldwide, including Pakistan, Switzerland and Germany.
+- Builds: business websites, online stores, booking websites with online payments, multilingual websites, admin panels and AI apps.
+- Main tools: Next.js, React, Tailwind CSS, PostgreSQL, Supabase, Prisma, Stripe.
+- Languages: English, Urdu.
+- Credited as "Website by Rayyan Abrar" in the footer of aps.com.pk (Advanced Power Solutions, Lahore).
+
 ## Work
 
 - [Advanced Power Solutions](https://aps.com.pk/): E-commerce website for an industrial engineering firm in Pakistan (switchgear, generators, UPS systems, compressors), with an admin panel, user accounts, a cart and quote requests. Next.js, Tailwind. 2025.
